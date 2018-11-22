@@ -1,2 +1,2 @@
 # Nanda-Kumar
-My projects
+My Resume which can be developed on HTML and CSS
